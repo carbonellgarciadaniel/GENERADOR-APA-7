@@ -94,7 +94,12 @@ Puedes:
 - Revista (en cursiva si aplica)
 - DOI con hipervínculo (si existe)
 
----
+## 📄 Ejemplo de salida
+
+El programa genera automáticamente un archivo Word con las referencias en formato APA 7.
+
+📥 Ejemplo generado:
+- bibliografia_APA7.docx (incluido en la carpeta /ejemplo)
 
 ## 🚀 Versión 1.0
 
